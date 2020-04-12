@@ -1,0 +1,8 @@
+  
+{
+    "name": "hello-node",
+    "description": "Hello World NodeJs App",
+    "repository": "https://github.com/siddharthsinghjd/salesforceDashboardCovid",
+    "keywords": ["node", "heroku"],
+    "addons": ["heroku-postgresql:hobby-dev"]
+}
